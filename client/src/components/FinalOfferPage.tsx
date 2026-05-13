@@ -94,8 +94,7 @@ export default function FinalOfferPage() {
         <div className="animate-fadeInSlideUp" style={{ animationDelay: '400ms' }}>
           <button
             onClick={() => {
-              // Replace with your sales page URL
-              window.open('https://seulink.com/metodo-pele-limpa', '_blank');
+              window.open('https://metodo-coreano.vercel.app/', '_blank');
             }}
             className="w-full py-5 rounded-2xl bg-gradient-to-r from-green-500 to-emerald-600 text-white font-extrabold text-lg uppercase tracking-wide shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-[1.02] animate-pulseGlow"
           >
